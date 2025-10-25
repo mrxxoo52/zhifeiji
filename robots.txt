@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mrxxoo52.github.io/sitemap.xml
+Sitemap: https://mrxxoo52.github.io/zhifeiji/sitemap.xml
